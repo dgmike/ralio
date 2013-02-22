@@ -1,6 +1,6 @@
 # ralio
 
-A *usable* command-line client for rally.
+A *usable* command-line client for [rally](http://www.rallydev.com/ "Agile Project Management for Agile Development").
 
 [![Build Status](https://travis-ci.org/oesmith/ralio.png)](https://travis-ci.org/oesmith/ralio)
 
